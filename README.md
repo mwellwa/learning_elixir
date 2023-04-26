@@ -1,4 +1,4 @@
-# Roc, Paper, Scissors
+# RocK, Paper, Scissors
 
 **TODO: Add error handling if user enters a move that is not available
 
