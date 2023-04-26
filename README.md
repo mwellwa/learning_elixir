@@ -1,21 +1,8 @@
-# Rps
+# Roc, Paper, Scissors
 
-**TODO: Add description**
+**TODO: Add error handling if user enters a move that is not available
 
-## Installation
+## Description
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `rps` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:rps, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/rps>.
+This is a simple rock, paper, scissors game
 
